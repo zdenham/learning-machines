@@ -11,7 +11,8 @@ Progress doesn't have to be linear — some days you revisit a concept, go on a 
 Topics take as long as they take. Don't estimate time, don't rush to the next section. Move on when the material feels solid, not when a schedule says to.
 
 - **`course/`** — The curriculum outline and topic sequence.
-- **`progress/`** — Daily logs in markdown tracking what was covered, solutions, and notes. One file per day (`YYYY-MM-DD.md`).
+- **`problem-sets/`** — Full problem statements for each topic. Numbered sequentially (e.g. `01-vectors-dot-products.md`).
+- **`progress/`** — Daily logs tracking what was covered and what's left. One file per day (`YYYY-MM-DD.md`), linking to the relevant problem set.
 
 ## Getting started
 
